@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Phuc%20(Bri)%20Ho&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Backend%20Engineer%20•%20Embedded%20Tinkerer%20•%20CS%20@%20Knox&descSize=16&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Phuc%20(Kyrie)%20Ho&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Backend%20Engineer%20•%20Embedded%20Tinkerer%20•%20CS%20@%20Knox&descSize=16&descAlignY=60&animation=fadeIn)
 
 <!-- Typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Backend-focused+full-stack+engineer.;Where+REST+APIs+meet+I%C2%B2C+sensors.;Django+%2B+React+%2B+Raspberry+Pi+%2B+caffeine.;Ship+fast.+Iterate.+Repeat.)](https://git.io/typing-svg)
@@ -18,19 +18,21 @@
 ## 👋 About Me
 
 ```python
-class Bri:
+class Kyrie:
     def __init__(self):
-        self.name      = "Phuc (Bri) Ho"
+        self.name      = "Phuc (Kyrie) Ho"
         self.role      = "Backend-focused Software Engineer"
-        self.school    = "Knox College — CS, '29"
+        self.school    = "Knox College — CS, '28"
         self.stack     = ["Django", "React", "Java", "PostgreSQL", "Docker", "Kubernetes"]
         self.hardware  = ["Raspberry Pi", "Pico", "Arduino", "ESP32", "I²C sensors"]
         self.languages = ["English", "Tiếng Việt"]
         self.off_hours = ["gym 4x/week", "movies", "dogs"]
 
     def current_focus(self):
-        return "Building full-stack systems where the backend does the heavy lifting — "\
-               "and the hardware actually listens."
+        return (
+            "Building full-stack systems where the backend does the heavy lifting — "
+            "and the hardware actually listens."
+        )
 ```
 
 ---
@@ -117,10 +119,10 @@ React + Vite frontend, FastAPI backend, Gemini API. Entered under Healthcare & S
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phucho0307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phucho0307&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![Streak](https://streak-stats.demolab.com?user=phucho0307&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
@@ -132,7 +134,7 @@ React + Vite frontend, FastAPI backend, Gemini API. Entered under Healthcare & S
 
 [![Email](https://img.shields.io/badge/pho@knox.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pho@knox.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuc-t-ho-a6267a316/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phucho0307)
 
 </div>
 
