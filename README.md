@@ -115,19 +115,6 @@ React + Vite frontend, FastAPI backend, Gemini API. Entered under Healthcare & S
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phucho0307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phucho0307&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)
-
-![Streak](https://streak-stats.demolab.com?user=phucho0307&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
@@ -144,6 +131,6 @@ React + Vite frontend, FastAPI backend, Gemini API. Entered under Healthcare & S
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer)
 
-*"Build it like the hardware will be running it 24/7 — because it might be."*
+*"Build it like the hardware will be running it 24/7. Because it might be."*
 
 </div>
