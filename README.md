@@ -1,135 +1,59 @@
-<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00FF41,100:000000&height=180&section=header&text=Phuc%20Ho&fontColor=ffffff&fontSize=80&fontAlignY=45&animation=fadeIn" />
+
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Phuc%20(Kyrie)%20Ho&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Backend%20Engineer%20•%20Embedded%20Tinkerer%20•%20CS%20@%20Knox&descSize=16&descAlignY=60&animation=fadeIn)
 
-<!-- Typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Backend-focused+full-stack+engineer.;Where+REST+APIs+meet+I%C2%B2C+sensors.;Django+%2B+React+%2B+Raspberry+Pi+%2B+caffeine.;Ship+fast.+Iterate.+Repeat.)](https://git.io/typing-svg)
-
-<!-- Profile stat pills -->
-![Profile views](https://komarev.com/ghpvc/?username=phucho0307&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS)
-![Focus](https://img.shields.io/badge/Focus-Backend%20%2B%20Embedded-58A6FF?style=for-the-badge&labelColor=0d1117)
-![Status](https://img.shields.io/badge/Status-Building-3FB950?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-## 👋 About Me
-
-```python
-class Kyrie:
-    def __init__(self):
-        self.name      = "Phuc (Kyrie) Ho"
-        self.role      = "Backend-focused Software Engineer"
-        self.school    = "Knox College — CS, '28"
-        self.stack     = ["Django", "React", "Java", "PostgreSQL", "Docker", "Kubernetes"]
-        self.hardware  = ["Raspberry Pi", "Pico", "Arduino", "ESP32", "I²C sensors"]
-        self.languages = ["English", "Tiếng Việt"]
-        self.off_hours = ["gym 4x/week", "movies", "dogs"]
-
-    def current_focus(self):
-        return (
-            "Building full-stack systems where the backend does the heavy lifting — "
-            "and the hardware actually listens."
-        )
+```diff
++ **********????????*:..             ...*???????????*********:::
++ ********????????*:                    .:*?*????????********:::
++ ******?????????*. ...     .......... .  ..:*????????*******:::
++ ******???????*:  .    .. .         .....  :????????*********::
++ ******??????:.      ..    ..:*??*..    ....:??????**********::
++ *****???????: .       .?11%8@@@@@801?:.     :????***********::
++ ****????????. .     .:0@@@@@@@@@@@@@8%1:  ...***?*********::::
++ ***?????????.    ...1%@@@@@@@@@@@@@@@8%0:.. .*************::::
++ **??????????:.. .. ?@@@@@@@@@@@@@@%1111?:....:************::::
++ *??????????1*......0%1100%0000%8%1000001?:.. :**********::::::
++ ????????????:    .?%1*0%%008@8%@%1@8111?01. .*******::::::::::
++ ??????????1?:::?*.0@@8%0%08@@%@@@1%@@@@@80: :******:::::::::::
++ ??????????111?0@% 1@@@8@@@@@@@@@@@%8@@@@@%* :::**:*:::::::::::
++ ????????????1??8@*?8@@@@@@@@@@@@8%0%8@@@@%:.****::::::::::::::
++ ???????????111??@@0%@@@@@@@@@@@@888@@@@@80*:*::::::::::::.....
++ ?????????????11?0@@%8@@@@@@@@@@@@@8810@@%0*:::::::::::::......
++ *?????????????1??1**%@@@@@@8%8@@@@@%18@8%?:::::::::::.........
++ *????????????1????* ?%8@@@@@@@@@@@@%%88%?:::::::::............
++ ***????????????????**%%%8@@@@@@@@@@@880?::::::................
++ ****????????????????0@@8%%%8@@@@@@@@%1:::::::.................
++ ******?????????????0@@@@@@%00%%001?*: .::::...................
++ *******?????????*?8@@@@@@@@@@8%011?*.:::.::...................
++ *******??????**::::?8@@@@@@@@@@@@@81??::?.....................
++ *******??***:::::::::?%@@@@@@@@@@@8%%1?*%1........          ..
++ ********:::::::::::::..*0@@@@@@@@@@@%081%%:...............    
++ *****:::::::::::::::::00*:?08@@@@@@@%%@@81::11****.::::.....  
++ *:::::::::::.::.:::::0@@@81*:*1%8@@@@@@%?.:18@@@@@?...........
++ ::::::::::::..:..:::0@@@@@@@80?:::****:..*0@@@@@@@@001:.......
++ :::::::::::::::::..*8@@@@@@@@@@@80111101%@@@@@@@@@@@@@81:.....
++ .::::::::::::::.::.0@@@@@@@@@@@@@@@@@@@8@@@@@@@@@@@@@@@@%.....
++ .:::::::::::::::.::?@@@@@@@@@@@@@@@@@808@@@@@@@@@@@@@@@@@8?...
++ ..:::::::::::::::.::0@@@@@@@@@@@@@@@@@8@88@@@@@@@@@@@8@@@@@1..
 ```
 
----
+<br />
 
-## 🔧 What I Build
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1200&color=00FF41&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%C2%B7+Backend+%C2%B7+ML+Infra;Shipping+resilient+systems+in+Rust%2C+Go%2C+Python;Currently+%3A+Rust+microservices+for+robotic+telescopes;CS+%40+Knox+%C2%B7+GPA+3.93+%C2%B7+SWE+2027" />
 
-> **Backend-first, full-stack capable, hardware-aware.**
+<br />
 
-🛠️ **Backend systems** — Django + DRF APIs designed around clean abstractions (Strategy pattern, dependency injection, dynamic dispatch). REST contracts that frontends and microcontrollers can both consume.
+`Knox College` &nbsp; **`>`** &nbsp; `MACRO Consortium` &nbsp; **`>`** &nbsp; `Winter 2027`
 
-🔌 **Embedded software** — MicroPython & CircuitPython on RP2040/ESP32, I²C sensor drivers (VL53L1X ToF, etc.), non-blocking serial protocols, WS2812B LED choreography at 284-pixel scale.
+<br />
 
-🌐 **Full-stack delivery** — React + Vite frontends, containerized backends, deployed on Linux with systemd, kiosk-mode Chromium, SSH-keyed CI workflows.
+[![Email](https://img.shields.io/badge/-751920hotanphuc%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:751920hotanphuc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-linkedin.com%2Fin%2Fphucho0307-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/phucho0307/)
 
-⚡ **The seam** — the part most engineers avoid: making REST APIs, serial buses, and physical hardware speak the same language.
+<br />
 
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Backend
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B)
-![DRF](https://img.shields.io/badge/DRF-0d1117?style=for-the-badge&logo=django&logoColor=A30000)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-
-### Frontend
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Data & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-
-### Embedded & Hardware
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
-![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00979D)
-![MicroPython](https://img.shields.io/badge/MicroPython-0d1117?style=for-the-badge&logo=micropython&logoColor=ffffff)
-![CircuitPython](https://img.shields.io/badge/CircuitPython-0d1117?style=for-the-badge&logo=adafruit&logoColor=9E1145)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+<img src="https://komarev.com/ghpvc/?username=phucho0307&label=VISITORS&color=00FF41&style=for-the-badge&labelColor=000000" />
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ NMR-Display
-**Kiosk system on Raspberry Pi 5**  
-Django REST backend ↔ Pico (MicroPython) over USB serial, driving 284 WS2812B LEDs. Strategy-pattern controller, non-blocking serial polling via `select.poll()`, systemd-managed Chromium kiosk mode.
-
-`Django` `MicroPython` `React` `Linux` `WS2812B`
-
-</td>
-<td width="50%" valign="top">
-
-### 👕 Clothy Buddy
-**AI outfit recommender — hackathon entry**  
-React + Vite frontend, FastAPI backend, Gemini API. Entered under Healthcare & Sustainability tracks at HackAugie. Full demo video + landing page shipped.
-
-`React` `FastAPI` `Gemini` `Vite`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/pho@knox.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pho@knox.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuc-t-ho-a6267a316/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phucho0307)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer)
-
-*"Build it like the hardware will be running it 24/7. Because it might be."*
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00FF41,100:000000&height=100&section=footer" />
