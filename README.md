@@ -1,4 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00FF41,100:000000&height=180&section=header&text=Phuc%20Ho&fontColor=ffffff&fontSize=80&fontAlignY=45&animation=fadeIn" />
+```diff
++              ██████╗ ██╗  ██╗██╗   ██╗ ██████╗    ██╗  ██╗ ██████╗ 
++              ██╔══██╗██║  ██║██║   ██║██╔════╝    ██║  ██║██╔═══██╗
++              ██████╔╝███████║██║   ██║██║         ███████║██║   ██║
++              ██╔═══╝ ██╔══██║██║   ██║██║         ██╔══██║██║   ██║
++              ██║     ██║  ██║╚██████╔╝╚██████╗    ██║  ██║╚██████╔╝
++              ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝  ╚═╝ ╚═════╝ 
+```
 
 <div align="center">
 
