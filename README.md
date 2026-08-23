@@ -7,60 +7,42 @@
 +              ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝  ╚═╝ ╚═════╝ 
 ```
 
-<div align="center">
 
-```diff
-+ **********????????*:..             ...*???????????*********:::
-+ ********????????*:                    .:*?*????????********:::
-+ ******?????????*. ...     .......... .  ..:*????????*******:::
-+ ******???????*:  .    .. .         .....  :????????*********::
-+ ******??????:.      ..    ..:*??*..    ....:??????**********::
-+ *****???????: .       .?11%8@@@@@801?:.     :????***********::
-+ ****????????. .     .:0@@@@@@@@@@@@@8%1:  ...***?*********::::
-+ ***?????????.    ...1%@@@@@@@@@@@@@@@8%0:.. .*************::::
-+ **??????????:.. .. ?@@@@@@@@@@@@@@%1111?:....:************::::
-+ *??????????1*......0%1100%0000%8%1000001?:.. :**********::::::
-+ ????????????:    .?%1*0%%008@8%@%1@8111?01. .*******::::::::::
-+ ??????????1?:::?*.0@@8%0%08@@%@@@1%@@@@@80: :******:::::::::::
-+ ??????????111?0@% 1@@@8@@@@@@@@@@@%8@@@@@%* :::**:*:::::::::::
-+ ????????????1??8@*?8@@@@@@@@@@@@8%0%8@@@@%:.****::::::::::::::
-+ ???????????111??@@0%@@@@@@@@@@@@888@@@@@80*:*::::::::::::.....
-+ ?????????????11?0@@%8@@@@@@@@@@@@@8810@@%0*:::::::::::::......
-+ *?????????????1??1**%@@@@@@8%8@@@@@%18@8%?:::::::::::.........
-+ *????????????1????* ?%8@@@@@@@@@@@@%%88%?:::::::::............
-+ ***????????????????**%%%8@@@@@@@@@@@880?::::::................
-+ ****????????????????0@@8%%%8@@@@@@@@%1:::::::.................
-+ ******?????????????0@@@@@@%00%%001?*: .::::...................
-+ *******?????????*?8@@@@@@@@@@8%011?*.:::.::...................
-+ *******??????**::::?8@@@@@@@@@@@@@81??::?.....................
-+ *******??***:::::::::?%@@@@@@@@@@@8%%1?*%1........          ..
-+ ********:::::::::::::..*0@@@@@@@@@@@%081%%:...............    
-+ *****:::::::::::::::::00*:?08@@@@@@@%%@@81::11****.::::.....  
-+ *:::::::::::.::.:::::0@@@81*:*1%8@@@@@@%?.:18@@@@@?...........
-+ ::::::::::::..:..:::0@@@@@@@80?:::****:..*0@@@@@@@@001:.......
-+ :::::::::::::::::..*8@@@@@@@@@@@80111101%@@@@@@@@@@@@@81:.....
-+ .::::::::::::::.::.0@@@@@@@@@@@@@@@@@@@8@@@@@@@@@@@@@@@@%.....
-+ .:::::::::::::::.::?@@@@@@@@@@@@@@@@@808@@@@@@@@@@@@@@@@@8?...
-+ ..:::::::::::::::.::0@@@@@@@@@@@@@@@@@8@88@@@@@@@@@@@8@@@@@1..
-```
+### `> TECH STACK`
+
+**`Languages`**
+
+![Go](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=go&logoColor=00FF41&labelColor=000000)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF41&labelColor=000000)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41&labelColor=000000)
+![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=000000)
+
+**`Data + Messaging`**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=000000)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF41&labelColor=000000)
+![Kafka](https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=00FF41&labelColor=000000)
+![gRPC](https://img.shields.io/badge/-gRPC-000000?style=for-the-badge&logo=grpc&logoColor=00FF41&labelColor=000000)
+
+**`Infra + DevOps`**
+
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41&labelColor=000000)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF41&labelColor=000000)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000)
+![NGINX](https://img.shields.io/badge/-NGINX-000000?style=for-the-badge&logo=nginx&logoColor=00FF41&labelColor=000000)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000)
+
+**`Backend`**
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41&labelColor=000000)
+![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=00FF41&labelColor=000000)
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1200&color=00FF41&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%C2%B7+Backend+%C2%B7+ML+Infra;Shipping+resilient+systems+in+Rust%2C+Go%2C+Python;Currently+%3A+Rust+microservices+for+robotic+telescopes;CS+%40+Knox+%C2%B7+GPA+3.93+%C2%B7+SWE+2027" />
-
-<br />
-
-`Knox College` &nbsp; **`>`** &nbsp; `MACRO Consortium` &nbsp; **`>`** &nbsp; `Winter 2027`
-
-<br />
+### `> CONTACT`
 
 [![Email](https://img.shields.io/badge/-751920hotanphuc%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:751920hotanphuc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-linkedin.com%2Fin%2Fphucho0307-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/phucho0307/)
 
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=phucho0307&label=VISITORS&color=00FF41&style=for-the-badge&labelColor=000000" />
-
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00FF41,100:000000&height=100&section=footer" />
