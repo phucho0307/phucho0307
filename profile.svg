@@ -38,9 +38,9 @@
 <text x="45" y="385" font-size="13"><tspan fill="#7fb8a3" opacity="0.6">-</tspan> <tspan fill="#00ffaa" font-weight="bold" letter-spacing="1">Recent</tspan></text>
 <text x="45" y="404" fill="#7fb8a3" font-size="12" opacity="0.6">-</text>
 <text x="45" y="423" font-size="13"><tspan fill="#4dd0e1">- @ MACRO:</tspan></text>
-<text x="230" y="423" fill="#e6edf3" font-size="13">Rust microservices for robotic telescopes</text>
+<text x="230" y="423" fill="#e6edf3" font-size="13">Distributed Rust services + K8s + gRPC for observatory network</text>
 <text x="45" y="442" font-size="13"><tspan fill="#4dd0e1">- @ Makerspace:</tspan></text>
-<text x="230" y="442" fill="#e6edf3" font-size="13">Team Lead  ·  embedded + full stack</text>
+<text x="230" y="442" fill="#e6edf3" font-size="13">Python/Django backend + systemd deploys for lab systems</text>
 <text x="45" y="461" font-size="13"><tspan fill="#4dd0e1">- @ HCM Data:</tspan></text>
 <text x="230" y="461" fill="#e6edf3" font-size="13">PostgreSQL query optimization</text>
 <text x="45" y="480" fill="#7fb8a3" font-size="12" opacity="0.6">-</text>
@@ -53,8 +53,6 @@
 <text x="45" y="575" font-size="13"><tspan fill="#4dd0e1">- GitHub:</tspan></text>
 <text x="230" y="575" fill="#e6edf3" font-size="13">github.com/phucho0307</text>
 <text x="45" y="594" fill="#7fb8a3" font-size="12" opacity="0.6">-</text>
-<text x="45" y="613" font-size="13"><tspan fill="#4dd0e1">- Live Stats</tspan></text>
-<text x="230" y="613" fill="#e6edf3" font-size="13">See live GitHub stats badges below in README ↓</text>
 <rect x="20" y="640" width="1160" height="160" fill="#0d1a26" stroke="#00ffaa" stroke-width="1"/>
 <text x="24" y="648" fill="#00ffaa" font-size="11" text-anchor="middle" opacity="0.8">+</text>
 <text x="1176" y="648" fill="#00ffaa" font-size="11" text-anchor="middle" opacity="0.8">+</text>
