@@ -1,48 +1,10 @@
-```diff
-+              ██████╗ ██╗  ██╗██╗   ██╗ ██████╗    ██╗  ██╗ ██████╗ 
-+              ██╔══██╗██║  ██║██║   ██║██╔════╝    ██║  ██║██╔═══██╗
-+              ██████╔╝███████║██║   ██║██║         ███████║██║   ██║
-+              ██╔═══╝ ██╔══██║██║   ██║██║         ██╔══██║██║   ██║
-+              ██║     ██║  ██║╚██████╔╝╚██████╗    ██║  ██║╚██████╔╝
-+              ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝  ╚═╝ ╚═════╝ 
-```
+[![Phuc Ho profile](./profile.svg)](https://github.com/phucho0307)
 
+<div align="center">
 
-### `> TECH STACK`
+![Stats](https://github-readme-stats.vercel.app/api?username=phucho0307&show_icons=true&hide_border=true&bg_color=0a1420&title_color=00ffaa&text_color=e6edf3&icon_color=4dd0e1&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucho0307&layout=compact&hide_border=true&bg_color=0a1420&title_color=00ffaa&text_color=e6edf3&langs_count=8)
 
-**`Languages`**
-
-![Go](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=go&logoColor=00FF41&labelColor=000000)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF41&labelColor=000000)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41&labelColor=000000)
-![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=000000)
-
-**`Data + Messaging`**
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=000000)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF41&labelColor=000000)
-![Kafka](https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=00FF41&labelColor=000000)
-![gRPC](https://img.shields.io/badge/-gRPC-000000?style=for-the-badge&logo=grpc&logoColor=00FF41&labelColor=000000)
-
-**`Infra + DevOps`**
-
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41&labelColor=000000)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF41&labelColor=000000)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000)
-![NGINX](https://img.shields.io/badge/-NGINX-000000?style=for-the-badge&logo=nginx&logoColor=00FF41&labelColor=000000)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000)
-
-**`Backend`**
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41&labelColor=000000)
-![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=00FF41&labelColor=000000)
-
-<br />
-
-### `> CONTACT`
-
-[![Email](https://img.shields.io/badge/-751920hotanphuc%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:751920hotanphuc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-linkedin.com%2Fin%2Fphucho0307-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/phucho0307/)
+![Streak](https://streak-stats.demolab.com?user=phucho0307&hide_border=true&background=0a1420&stroke=00ffaa&ring=00ffaa&fire=ff5555&currStreakLabel=00ffaa&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=7fb8a3)
 
 </div>
