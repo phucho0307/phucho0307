@@ -457,11 +457,12 @@
 <rect x="700" y="777" width="10" height="10" fill="#161b22" rx="1.5"/>
 <rect x="712" y="777" width="10" height="10" fill="#161b22" rx="1.5"/>
 <rect x="724" y="777" width="10" height="10" fill="#161b22" rx="1.5"/>
-<text x="45" y="790" fill="#7fb8a3" font-size="10" letter-spacing="1">POWER NODES: <tspan fill="#ffd166">LOW</tspan></text>
-<rect x="170" y="781" width="7" height="10" fill="#26a641"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" begin="0.00s" repeatCount="indefinite"/></rect>
-<rect x="180" y="781" width="7" height="10" fill="#26a641"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" begin="0.20s" repeatCount="indefinite"/></rect>
-<rect x="190" y="781" width="7" height="10" fill="#26a641"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" begin="0.40s" repeatCount="indefinite"/></rect>
-<rect x="200" y="781" width="7" height="10" fill="#26a641"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" begin="0.60s" repeatCount="indefinite"/></rect>
-<text x="220" y="790" fill="#00ffaa" font-size="10" letter-spacing="1">OVERDRIVE<animate attributeName="opacity" values="1;0.4;1" dur="1.6s" repeatCount="indefinite"/></text>
+<text x="45" y="790" fill="#7fb8a3" font-size="10" letter-spacing="1">POWER NODES: <tspan fill="#00ffaa">HIGH</tspan></text>
+<rect x="185" y="781" width="7" height="10" fill="#39d353"><animate attributeName="opacity" values="1;0.4;1" dur="1.8s" begin="0.00s" repeatCount="indefinite"/></rect>
+<rect x="195" y="781" width="7" height="10" fill="#39d353"><animate attributeName="opacity" values="1;0.4;1" dur="1.8s" begin="0.15s" repeatCount="indefinite"/></rect>
+<rect x="205" y="781" width="7" height="10" fill="#39d353"><animate attributeName="opacity" values="1;0.4;1" dur="1.8s" begin="0.30s" repeatCount="indefinite"/></rect>
+<rect x="215" y="781" width="7" height="10" fill="#39d353"><animate attributeName="opacity" values="1;0.4;1" dur="1.8s" begin="0.45s" repeatCount="indefinite"/></rect>
+<rect x="225" y="781" width="7" height="10" fill="#39d353"><animate attributeName="opacity" values="1;0.4;1" dur="1.8s" begin="0.60s" repeatCount="indefinite"/></rect>
+<text x="245" y="790" fill="#00ffaa" font-size="10" letter-spacing="1">OVERDRIVE<animate attributeName="opacity" values="1;0.4;1" dur="1.6s" repeatCount="indefinite"/></text>
 <text x="1155" y="790" fill="#7fb8a3" font-size="10" text-anchor="end" letter-spacing="1">[ARCADE DEFENSE GRID // SECTOR: PHUCHO0307]</text>
 </svg>
